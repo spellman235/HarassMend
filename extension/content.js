@@ -3,6 +3,7 @@
 //HarassMend chrome extension
 //Created for HackDavis2017
 //In the future: expand to multiple social media sites with on/off functionality for each one (customisable), also filter intensity sliders.
+//tfw i'm on the path of killing shit talking :(
 
 
 //first time javascript, web, html, json, everything so there'll be bad code and extra commented code that I've tried to understand and use
